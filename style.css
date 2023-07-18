@@ -571,4 +571,16 @@ nav .fa-solid
 {
     margin-top: 20px;
 }
+
 }
+.skills {
+    text-decoration: none;
+    list-style-type: none;
+    color: #9c1547;
+}
+.skills ul {
+    text-decoration: none;
+    list-style-type: none;
+    color: #9c1547;
+}
+
